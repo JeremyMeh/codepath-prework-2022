@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Walkthrough Gif](https://i.imgur.com/G5A4fDX.gif)
+![](https://i.imgur.com/wvH2w0w.gif)
 
 
 GIF created with [ezgif.com](https://ezgif.com/).
