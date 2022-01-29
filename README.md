@@ -1,10 +1,10 @@
 # Pre-work - *Name of App Here*
 
-**Name of your app** is a tip calculator application for iOS.
+**JeremyCodePathPreWorkTipCalculator** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Jeremy Meharg**
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories
 
@@ -29,13 +29,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/G5A4fDX.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+GIF created with [ezgif.com](https://ezgif.com/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Never working with Swift before led to some issues when I was unaware of how to control specific things or change specific variables.
 
 ## License
 
